@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(97, 97, 97);
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    top: 0;
+    display: inline;
+    float: left;
+    width: 124px;
+    }
+a{
+    display: block;
+    top: 0;
+    padding: 30px;
+    background-color: rgb(24, 17, 17);
+    color: white;
+    top: 0;
+    text-decoration: none;
+    width: 56px;
+    height: 1px;
+    text-align: center;
+    right: 80%;
+    font-family: fantasy;
+}
+li a:hover{ 
+    background-color: rgb(109, 32, 32);
+}
+img{
+    padding: 20px;
+    padding-right: 35px;
+    padding-left: 35px;
+    width: 300px;
+    height: 500px;
+    border-radius: 60%;
+}
+h1{
+    padding: 100px;
+    left: 60%;
+    height: 210px;
+    width: 150px;
+    text-align: center;
+    color: rgb(109, 32, 32);
+    font-family: fantasy;
+}
+.p1{
+    padding-left: 30px;
+    padding-top: 30px;
+    left: 60%;
+    height: 700px;
+    width: 300px;
+    font-family: fantasy;
+    text-align: center;
+    font-size: large;
+    
+}
+.li1{
+    padding-right: 40px; 
+    text-align: center;
+    background-color: rgb(24, 17, 17);
+    color: white;
+}
+.li2{
+    padding-left: 86px;
+    text-align: center;
+    background-color: rgb(24, 17, 17);
+    color: white;
+}
+.ex1{
+    display: block;
+    padding: 30px;
+    background-color: rgb(24, 17, 17);
+    color: white;
+    text-decoration: none;
+    width: 56px;
+    height: 1px;
+    text-align: center;
+    font-family: fantasy;
+}
+.ex2{
+    display: block;
+    padding: 30px;
+    background-color: rgb(24, 17, 17);
+    color: white;
+    text-decoration: none;
+    width: 56px;
+    height: 1px;
+    text-align: center;
+    font-family: fantasy;
+    padding-left: 150px;
+}
+.ul1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(24, 17, 17);
+}
